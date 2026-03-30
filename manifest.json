@@ -1,0 +1,19 @@
+{
+  "name": "Hot Hot Fruit",
+  "short_name": "Hot Hot Fruit",
+  "theme_color": "",
+  "background_color": "#280d49",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1774876140-sghothotfruit-logo-en-1024x4641.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

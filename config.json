@@ -1,0 +1,200 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#280d49",
+            "lang-select-color": "#222829",
+            "bg-light": "#280d49",
+            "welcome-bonus-bg": "#280d49",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#150727",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#36078D",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#9F0202",
+            "yellow": "#36078D",
+            "yellow-button": "#9F0202",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#36078D",
+            "casino-cards": "#280d49",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#36078D",
+            "providers-back": "#280d49",
+            "faq-label": "#280d49",
+            "bg-footer": "#280d49",
+            "copyright": "#e7e7d5",
+            "starColor": "#36078D",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5363"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5364",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Hot Hot Fruit Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5365",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Hot Hot Fruit"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-en",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Hot Hot Fruit",
+                    "title": "Hot Hot Fruit Slot: 15 Fixed Paylines, 6\/12 Free Spins, x2\/x3 Symbol Boosts, Up to 25,000 Coins",
+                    "description": "Hot Hot Fruit by Habanero is a vibrant fruit slot with 15 fixed paylines, a Hot Hot Feature that turns symbols into x2 and x3 counted positions, a 6 or 12 free spin bonus, locked winning symbols, and top seven payouts of up to 25,000 coins.",
+                    "canonical": "hothot-fruit.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5366",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "hothot-fruit.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5367"
+                },
+                "hero": {
+                    "title": "Hot Hot Fruit — 15 Paylines, 6 or 12 Free Spins, and Up to 25,000 Coins",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5368",
+                    "imageSizeModifier": 10,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5369",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Classic fruit theme with modern energy.",
+                        "Random symbol doubling boosts win potential.",
+                        "Triple sevens raise big payout potential.",
+                        "Free spins with locks sustain excitement.",
+                        "Fifteen paylines create a clear rhythm.",
+                        "Simple rules suit new and skilled players.",
+                        "Bright neon styling makes the slot memorable."
+                    ],
+                    "advantagesAfterText": "",
+                    "knowMore": "Know more",
+                    "appTitle": "Hot Hot Fruit App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5370",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Hot Hot Fruit App",
+                    "mobileGooglePlayImageTitle": "Hot Hot Fruit App",
+                    "mobileIosImageTitle": "Hot Hot Fruit App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Hot Hot Fruit",
+                        "description1": "Hot Hot Fruit is a fruit-themed slot by Habanero that blends classic BAR symbols, fruits, and red sevens with a more action-driven bonus structure. ",
+                        "items": [],
+                        "description2": "The game uses a 5x3 layout with 15 fixed paylines, so the pace stays clear and easy to follow from the very first spin. Its standout mechanic is the Hot Hot Feature, where Wilds, BARs, and fruit symbols can randomly double, while the seven can turn into a triple symbol that stretches winning combinations much further. The slot also includes 6 or 12 free spins, and winning symbols in the bonus round can lock in place while keeping their doubled or tripled value.",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5371",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": " Because of that, the game feels easy to understand but much more dynamic than a standard retro fruit machine. Hot Hot Fruit works especially well for players who enjoy classic visuals with bonus moments that can suddenly change the whole session."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Hot Hot Fruit — slot review and features",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nHot Hot Fruit Key Features and Specifications\n<\/h3>\n<p>\nHot Hot Fruit was released as a classic-themed slot, but in practice it feels like a more energized version of a traditional fruit machine. The game uses a fixed 5x3 layout with 15 paylines and focuses less on complicated side rounds and more on strengthening symbols directly in the base game and during free spins. Its most important mechanic is the Hot Hot Feature, which can double standard symbols and triple the seven, while the bonus round becomes stronger through locked winning symbols. The slot also stays easy to understand because it is not overloaded with unnecessary side systems.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nHot Hot Fruit Main Specifications\n<\/h4>\n\n<ul>\n            <li>• Provider: Habanero<\/li>\n            <li>• Release year: 2019<\/li>\n            <li>• Layout: 5 reels, 3 rows<\/li>\n            <li>• Paylines: 15 fixed paylines<\/li>\n            <li>• Theme: classic fruits, BARs, and sevens<\/li>\n            <li>• Wild: substitutes for other symbols and has no standalone payout<\/li>\n            <li>• Wild positions: reels 1, 2, 4, and 5 only<\/li>\n            <li>• Hot Hot Feature: doubles standard symbols and triples the seven<\/li>\n            <li>• Free spins: 6 or 12 free games<\/li>\n            <li>• Bonus detail: winning symbols lock, up to 14 locked symbols<\/li>\n            <li>• Free spin retrigger: not available<\/li>\n            <li>• Gamble game: not available<\/li>\n            <li>• Launch format: commonly available in browser and mobile play<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nWhere to Play Hot Hot Fruit\n<\/h3>\n<p>\nHot Hot Fruit is commonly available on licensed online platforms that feature Habanero games. In most cases, the slot runs directly in a browser, so no separate installation is needed. The game is often accessible on desktop, smartphone, and tablet devices, which makes it convenient for both short and longer sessions. Depending on the platform, players may see either a demo version, a real-money version, or both, subject to regional availability. The most comfortable choice is usually a platform with clear navigation, quick access to the paytable, and transparent game information.\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nHot Hot Fruit Demo Mode\n<\/h3>\n<p>\nThe Hot Hot Fruit demo mode is designed for learning the slot without financial risk. It keeps the same core structure: 15 fixed paylines, the Hot Hot Feature, free spins, and locked symbols during the bonus round. This makes demo play especially useful for understanding how often the game can go through quiet stretches and how strongly the bonus round can change the overall pace. It is a practical option for both beginners and players who want to test the flow before starting a real session.\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nHot Hot Fruit Paytable Overview\n<\/h3>\n<p>\nThe Hot Hot Fruit paytable stands out because long combinations matter much more here than in many standard fruit slots. The top seven symbol can pay all the way up to 15 matching positions, while the other key symbols pay up to 10 matches. This is directly connected to the Hot Hot Feature, which can increase the counted symbol total inside a single winning line. Below is a clear payout summary based on bet level 1.\n<\/p>\n<br>\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n  <thead>\n    <tr style=\"background-color: #36078D;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Symbol<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Combination<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Payout<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Seven<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">3 \/ 4 \/ 5 \/ 6 \/ 7 \/ 8 \/ 9 \/ 10 \/ 11 \/ 12 \/ 13 \/ 14 \/ 15<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">10 \/ 40 \/ 100 \/ 150 \/ 300 \/ 400 \/ 500 \/ 600 \/ 750 \/ 800 \/ 1200 \/ 4000 \/ 25000<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>BAR<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">3 \/ 4 \/ 5 \/ 6 \/ 7 \/ 8 \/ 9 \/ 10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">5 \/ 30 \/ 75 \/ 175 \/ 200 \/ 250 \/ 300 \/ 900<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Plum<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">3 \/ 4 \/ 5 \/ 6 \/ 7 \/ 8 \/ 9 \/ 10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">5 \/ 25 \/ 60 \/ 120 \/ 150 \/ 200 \/ 250 \/ 750<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Orange<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">3 \/ 4 \/ 5 \/ 6 \/ 7 \/ 8 \/ 9 \/ 10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">5 \/ 25 \/ 50 \/ 100 \/ 125 \/ 175 \/ 200 \/ 600<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Watermelon<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">3 \/ 4 \/ 5 \/ 6 \/ 7 \/ 8 \/ 9 \/ 10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">5 \/ 25 \/ 40 \/ 75 \/ 100 \/ 150 \/ 175 \/ 500<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nHow to Win More Comfortably in Hot Hot Fruit\n<\/h3>\n<p>\nThere is no guaranteed way to beat Hot Hot Fruit because every spin is driven by RNG. In real play, the stronger sessions usually come not from small line hits, but from a timely Hot Hot Feature and especially from free spins with locked symbols. The slot tends to feel best when played at a calm pace with a stake size that can comfortably survive at least 60 to 100 spins without constant increases. In practice, sharp stake jumps after dry stretches damage bankrolls more often than they help. It also makes sense not to judge the game after only 10 or 15 spins, because Hot Hot Fruit usually reveals its real potential over a longer session where both symbol boosts and bonus play have time to appear. The strongest approach here is not chasing miracles, but giving the game room while keeping your stake and session limit under control.\n<\/p>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Hot Hot Fruit — bonuses, features, and how to play",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nHot Hot Fruit Bonuses and Special Offers\n<\/h3>\n<p>\nHot Hot Fruit does not overload the player with too many different bonus systems, and that is one of its strongest qualities. The slot builds its value around one vivid modifier and a free spin feature that can significantly improve normal payouts. The base game stays simple, which makes every doubled symbol and every locked position feel much more important. Another advantage is that the bonus round develops strong positions you have already built instead of starting from zero every time. On a broader level, Hot Hot Fruit also fits well into common promotional formats such as free spin packages, reload bonuses, and cashback offers because it is a recognizable slot with very clear mechanics. Below are the main in-game bonuses and the most logical types of outside promotional offers to consider.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nHot Hot Fruit In-Game Bonuses\n<\/h4>\n\n<ul>\n            <li>• Hot Hot Feature — this can trigger randomly on any spin. Wilds, BARs, and fruit symbols can turn into doubled versions that count as 2 symbols, while the seven can become a triple symbol that counts as 3. It is not a direct payout multiplier, but a symbol-count boost that can dramatically extend winning lines.<\/li>\n            <li>• 6 Free Games — triggered when the required Wild sequence appears in one direction. This is the standard bonus entry and already gives strong potential for locks and upgraded symbols.<\/li>\n            <li>• 12 Free Games — triggered in the stronger activation scenario when the Wild requirement is met in both directions. This version is more valuable because the bonus session starts with twice the length.<\/li>\n            <li>• Locked Winning Symbols — any symbol that forms part of a winning combination during free games locks for the remaining bonus spins. That keeps strong positions on the screen and builds momentum.<\/li>\n            <li>• Preserved x2 and x3 States — if a locked symbol was doubled or tripled, it can remain that way for the rest of the bonus round. This is one of the most powerful mechanics in Hot Hot Fruit because good bonuses can snowball through quality rather than quantity.<\/li>\n            <li>• Up to 14 Locked Symbols — this is a very high ceiling for a slot with a classic fruit-machine look, and it makes the bonus round much deeper than the theme first suggests.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nHot Hot Fruit Typical Promotional Offers\n<\/h4>\n\n<ul>\n            <li>• Free Spin Packages — a common format is 25, 50, or 100 free spins on selected slots. If Hot Hot Fruit is included, this is a comfortable way to test its bonus potential without starting with a large bankroll.<\/li>\n            <li>• Welcome Bonuses — a common format is a 100% first-deposit match up to 100 or 200 units plus extra spins. This can work well for Hot Hot Fruit because longer sessions matter more than short bursts.<\/li>\n            <li>• Reload Bonuses — common examples include 25% to 50% on a repeat deposit. This suits players who already know the pace of the slot and want added room for a feature-driven session.<\/li>\n            <li>• Cashback Offers — examples often range from 5% to 15% back over a period. For a slot with sharper up-and-down stretches, this can soften losing runs.<\/li>\n            <li>• Slot Tournaments — these often reward the highest total wins or strongest single round during a set period. Hot Hot Fruit fits this format well because of its explosive bonus moments.<\/li>\n            <li>• Missions and Challenges — examples include completing 20, 50, or 100 spins to unlock extra spins or a cash bonus. This works naturally for players planning a medium-length session anyway.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nHot Hot Fruit Free Spins and Symbol Boosts\n<\/h3>\n<p>\nIn Hot Hot Fruit, free spins and “multipliers” do not work like a standard direct x2 on total payout. Instead, the game boosts the counted symbol total inside a win: key standard symbols can count as 2, while the seven can count as 3. Below is a clear table showing how free games and symbol boosts actually work in this slot.\n<\/p>\n<br>\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n  <thead>\n    <tr style=\"background-color: #36078D;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Scenario<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Reward \/ Boost<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Effect<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>3+ Wilds in one direction<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">6 free games<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Standard bonus entry<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>3+ Wilds in both directions<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">12 free games<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Expanded bonus round<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Hot Hot on Wild, BAR, and fruits<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Counts as 2 symbols<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Extends winning combinations<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Hot Hot on seven<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Counts as 3 symbols<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Strengthens top payouts<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Winning symbol during free games<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Locks in place<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Stays until the bonus ends<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Locked doubled or tripled symbol<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Keeps its status<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Continues boosting later spins<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Maximum lock count<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Up to 14 symbols<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Raises series potential sharply<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Bonus retrigger<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Not available<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">The free spin round cannot restart itself<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nHow to Play Hot Hot Fruit Step by Step\n<\/h3>\n<p>\nHot Hot Fruit is easy to start because the slot is built on a clear classic foundation. The main goal is to choose a comfortable bet, launch your spins, and watch for both the Hot Hot Feature and the Wild-based bonus entry. Knowing how free spins and locked symbols work makes the game much easier to read and enjoy.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nHot Hot Fruit Step-by-Step Guide\n<\/h4>\n\n<ul>\n            <li>• Step 1: Choose a mode — start with demo play if you want to learn the mechanics, or go straight to real play if you already know the rules.<\/li>\n            <li>• Step 2: Set your stake — in Hot Hot Fruit, the total bet depends on coin denomination and bet level, while the paylines stay fixed at 15.<\/li>\n            <li>• Step 3: Launch the spin — press Spin and wait for the reels to settle, or use a faster mode if it is available.<\/li>\n            <li>• Step 4: Read the base wins — line wins pay in sequence from left to right, and only the longest matching combination per symbol is paid.<\/li>\n            <li>• Step 5: Watch for the Hot Hot Feature — when it activates, key standard symbols can count as 2 and the seven can count as 3, which changes the strength of the screen immediately.<\/li>\n            <li>• Step 6: Trigger free spins — the bonus can award 6 or 12 free games depending on the Wild pattern that appears.<\/li>\n            <li>• Step 7: Follow the locks — during free spins, winning symbols lock in place, and doubled or tripled states can remain until the series ends.<\/li>\n            <li>• Step 8: End the session by plan — use a pre-set spin limit or bankroll limit so the session stays controlled and comfortable.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nHot Hot Fruit Playing Tips\n<\/h3>\n<p>\nHot Hot Fruit looks simple, but it performs best for players who understand its pace. This is a slot where the real impact comes less from frequent small payouts and more from stronger feature-driven moments through the Hot Hot Feature and the free spin round. That is why a measured, controlled approach usually works better than aggressive play.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBest Tips for Hot Hot Fruit\n<\/h4>\n\n<ul>\n            <li>• Keep your stake stable — changing the bet too often makes the session harder to read and can disturb your bankroll faster.<\/li>\n            <li>• Leave room for bonus-less stretches — Hot Hot Fruit can move through calm periods, so it helps to keep enough balance for several dozen spins.<\/li>\n            <li>• Do not overvalue small hits — the slot’s real strength comes from long combinations, doubled symbols, and a strong bonus round.<\/li>\n            <li>• Use demo mode before real play — it helps you understand symbol locking and decide whether the slot’s rhythm feels right.<\/li>\n            <li>• Check the paytable first — it is especially useful to understand how much stronger the seven is than the other symbols.<\/li>\n            <li>• Do not stretch a losing session — once your time or bankroll limit is reached, stopping is usually smarter than forcing the game.<\/li>\n            <li>• Play in short blocks — sessions of 30 to 50 spins with a quick bankroll review often feel better than endless autoplay.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nHot Hot Fruit Mistakes That Drain a Bankroll\n<\/h3>\n<p>\nThe main problem in Hot Hot Fruit is not difficult rules, but wrong expectations about the pace of the game. Many players see a classic fruit slot and underestimate how strongly the results depend on feature spikes and boosted symbols. Because of that, bankrolls are usually lost not to the mechanics themselves, but to rushed decisions about bet size and session length.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nHot Hot Fruit Mistakes to Avoid\n<\/h4>\n\n<ul>\n            <li>• Starting with a bet that is too high — this removes your distance too quickly and gives the slot less time to reveal its feature potential.<\/li>\n            <li>• Chasing losses after dead spins — emotional stake increases usually speed up the drop instead of fixing it.<\/li>\n            <li>• Ignoring the 15 fixed paylines — if you do not understand the full cost of each spin, you can easily overestimate a safe stake size.<\/li>\n            <li>• Skipping demo mode — without a trial run, it is harder to judge whether the slot’s rhythm suits you.<\/li>\n            <li>• Expecting frequent bonuses — Hot Hot Fruit does not have to award free spins quickly, so building your session around that hope is risky.<\/li>\n            <li>• Letting autoplay run endlessly — it becomes easy to miss the moment when your stop-limit should already have triggered.<\/li>\n            <li>• Playing without a session plan — if there is no time, spin, or bankroll boundary, the stop decision usually comes too late.<\/li>\n            <li>• Misreading the bonus round — even 6 free games do not guarantee a big outcome unless symbol locking develops well inside the series.<\/li>\n<\/ul><br>"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Can I change the number of paylines in Hot Hot Fruit?",
+                            "answer": "No. The slot always runs with 15 fixed paylines on every spin."
+                        },
+                        {
+                            "title": "On which reels can Wild symbols appear?",
+                            "answer": "Wilds appear only on reels 1, 2, 4, and 5. This is an important detail for understanding the game’s bonus structure."
+                        },
+                        {
+                            "title": "Can free spins be retriggered during the bonus round?",
+                            "answer": "No. The free spin feature in Hot Hot Fruit cannot retrigger, so the series always stays limited to its original amount."
+                        },
+                        {
+                            "title": "What happens if the connection drops during a spin?",
+                            "answer": "The outcome is determined by the server, and the unfinished game normally resumes later or remains visible in game history. This protects the result from being lost because of a visual interruption on the player side."
+                        },
+                        {
+                            "title": "Who is Hot Hot Fruit best suited for?",
+                            "answer": "It is best suited for players who like classic fruit slots but want more movement through bonus boosts, locked symbols, and unusually long winning combinations."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

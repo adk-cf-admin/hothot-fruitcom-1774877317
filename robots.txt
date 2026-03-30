@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://hothot-fruit.com/
+Sitemap: https://hothot-fruit.com/sitemap.xml
